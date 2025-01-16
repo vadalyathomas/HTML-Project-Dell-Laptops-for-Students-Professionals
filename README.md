@@ -1,7 +1,3 @@
-# Front-End-Development-Coding
-Projects for Front-End Coding through SoloLearn
-
-HTML Project: PC Laptops for Students and Professionals
 <html>
 <center><header style="background-color: #ffca3a";><head><u>Laptops for Students & Professionals</u></head></header></center>
 <body>
