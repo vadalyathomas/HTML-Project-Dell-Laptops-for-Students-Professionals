@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <center><header style="background-color: #ffca3a";><head><u>Laptops for Students & Professionals</u></head></header></center>
 <body>
