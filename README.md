@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<center><header style="background-color: #ffca3a";><head><u>Laptops for Students & Professionals</u></head></header></center>
+<center><head><u>Laptops for Students & Professionals</u></head></header></center>
 <body>
 <main>
 <h1><b>Dell - PC Laptops</b></h1>
@@ -43,4 +43,4 @@
     <input type = "submit" value="Submit" class="button" style="background-color: #000080; color: #ffca3a" style="border:none" style="border-radius: 5px" onclick ="alert ('Order Confirmed!')">
 </form>
 </main>
-<footer style="background-color: #ffca3a;">Made with ❤️ in Florida.</footer>
+<footer>Made with ❤️ in Florida.</footer>
